@@ -4,7 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'montserrat';
-    color: #fff;
+    color: #99bc0b;
 }
 
 html,body {
@@ -144,7 +144,7 @@ video {
     color: #000;
     top: -4px;
     left: -4px;
-    -webkit-text-stroke: 2px #96C11e;
+    -webkit-text-stroke: 2px #1ec131;
     z-index: -1;
 }
 
